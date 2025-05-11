@@ -2,7 +2,7 @@
 
 ## Overview
 
-**JournalApp** is a Spring Boot-based application that serves as a journaling platform. The project is developed using **Maven** for dependency management, and **VS Code** as the primary IDE. It features RESTful APIs, secured authentication, scheduling tasks, external API integration (including weather data), and more.
+**JournalApp** is a Spring Boot-based application that serves as a journaling platform. The project is developed using **Maven** for dependency management, and **IntelliJ** as the primary IDE. It features RESTful APIs, secured authentication, scheduling tasks, external API integration (including weather data), and more.
 
 ## Features
 
